@@ -36,6 +36,6 @@ You will find the [official documentation](https://www.w3schools.com/nodejs/node
 ### 3.  Extension tasks
 If you know a bit about node and / or finish early, you could try the following extra tasks:
 
-	* Adapt the server to accept a command-line parameter containing the text to output, instead of always outputting Hello World (so that, for example, you could start it with "node index.js 'leave me alone, world'" if you want to give it a hangover").  Hint: use the variable process.argv.
+* Adapt the server to accept a command-line parameter containing the text to output, instead of always outputting Hello World (so that, for example, you could start it with "node index.js 'leave me alone, world'" if you want to give it a hangover").  Hint: use the variable process.argv.
 
-	* Rewrite the functions using ES6 arrow syntax rather than the 'function' keyword
+* Rewrite the functions using ES6 arrow syntax rather than the 'function' keyword
