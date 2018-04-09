@@ -28,7 +28,7 @@ https://github.com/leanjscom/node-hello-world-exercise
 ### 2.  Fix the index script
 Have a look at index.js.  Try to use it by running 'node index.js' on the commad line.
 
-You will notice that the script is completely broken, because it is missing most of its code; your first task is to fix it so that it works.
+You will notice that the script is completely broken, because it is missing most of its code, and one of the values is wrong.  Your first task is to fix it so that it works.
 
 You will find the [official documentation](https://www.w3schools.com/nodejs/nodejs_http.asp) useful in completing this task
 
