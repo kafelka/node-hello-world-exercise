@@ -6,7 +6,7 @@ server.on("request", function handleRequest(req, res) {
 	res.write("Hello, World!")
 	res.end()
 })
-server.listen(4000, function() {
+server.listen(4000, function logSuccessSettingUpServer() {
 	console.log("Listening on port 4000 for incoming requests.")
 	console.log("Try visiting http://localhost:4000 in your browser")
 })
