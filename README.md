@@ -1,4 +1,4 @@
-# Babel exercise
+# Node 'Hello World' exercise
 The goal of this exercise is to be able to install node.js and get a very basic HTTP server up and running.
 
 ## Get started
