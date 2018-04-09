@@ -2,7 +2,7 @@
 The goal of this exercise is to be able to install node.js and get a very basic HTTP server up and running.
 
 ## Get started
-The first thing to do is to install Node, and NPM, which comes with it.  We will also need git, to get hold of the exercise materials.
+The first thing to do is to install Node, and NPM, which comes with it.  We will also need Git, so that we can obtain a copy of the exercise materials.
 
 ### Installing Node and NPM
 
