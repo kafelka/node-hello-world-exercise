@@ -39,3 +39,5 @@ If you know a bit about node and / or finish early, you could try the following 
 * Adapt the server to accept a command-line parameter containing the text to output, instead of always outputting 'Hello World' (so that, for example, you could start it with "node index.js 'leave me alone, world'" if you want to give it a hangover).  Hint: use the variable process.argv.
 
 * Rewrite the functions using ES6 arrow syntax rather than the 'function' keyword
+
+* Write a simple HTTP server that serves files, like a simple Apache (use the node 'fs' module to load the files)
